@@ -1,0 +1,41 @@
+{
+  "name": "b_add",
+  "version": "0.0.1",
+  "description": "A small utility helps you to easily add BEM blocks in the file system of your project",
+  "main": "lib/main.js",
+  "dependencies": {
+    "bem-naming": "^0.5.1",
+    "create-file": "^1.0.1",
+    "jsonfile": "^2.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"May be in future...\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/c01nd01r/b_add"
+  },
+  "keywords": [
+    "bem",
+    "block",
+    "b_add",
+    "cli"
+  ],
+  "author": {
+    "name": "c01nd01r",
+    "email": "c01nd01r@users.noreply.github.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/c01nd01r/b_add/issues"
+  },
+  "preferGlobal": "true",
+ "bin": {
+   "b_add": "./bin/b_add"
+  },
+  "homepage": "https://github.com/c01nd01r/b_add",
+  "engines": {
+    "node": ">0.12.0"
+  }
+}

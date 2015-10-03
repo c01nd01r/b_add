@@ -1,0 +1,11 @@
+{
+  "blockLocation": "./app/blocks/",
+  "elem": "__",
+  "mod": "_",
+  "files": {
+    "block": [".styl", ".jade", ".wiki"],
+    "blockMod": [".styl"],
+    "elem": [".styl", ".jade"],
+    "elemMod": [".styl"]
+  }
+}
