@@ -2,9 +2,9 @@
 
 A small cli utility helps you to easily add BEM-blocks in the file system of your project
 
-## Аeatures
+## Features
 * Automatic creation of files and directories
-* Configuring file extensions for each type of BEM class  (block, element and their modifiers)
+* Configuring file extensions for each type of BEM class (block, element and their modifiers)
 * Setting separators for modifiers and elements
 
 ## Using
